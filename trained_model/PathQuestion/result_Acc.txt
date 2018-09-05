@@ -1,0 +1,22 @@
+1 | train loss 1.26207(1.26207)(1.26207) | train eval: 0.362693  | val eval: 0.412742  | test eval: 0.449713  (saved model)
+2 | train loss 1.00711(1.00711)(1.00711) | train eval: 0.419304  | val eval: 0.403047  | test eval: 0.380747 
+1 | train loss 1.11848(1.11848)(1.11848) | train eval: 0.210267  | val eval: 0.204986  | test eval: 0.231322  (saved model)
+2 | train loss 0.962443(0.962443)(0.962442) | train eval: 0.234177  | val eval: 0.239612  | test eval: 0.232759  (saved model)
+3 | train loss 0.837503(0.837503)(0.837503) | train eval: 0.266878  | val eval: 0.264543  | test eval: 0.255747  (saved model)
+4 | train loss 0.710035(0.710035)(0.710034) | train eval: 0.298699  | val eval: 0.33795  | test eval: 0.300287  (saved model)
+5 | train loss 0.634227(0.634227)(0.634227) | train eval: 0.339311  | val eval: 0.358726  | test eval: 0.33477  (saved model)
+6 | train loss 0.595196(0.595196)(0.595196) | train eval: 0.386955  | val eval: 0.411357  | test eval: 0.405172  (saved model)
+7 | train loss 0.558166(0.558166)(0.558166) | train eval: 0.440752  | val eval: 0.439058  | test eval: 0.431034  (saved model)
+8 | train loss 0.531077(0.531077)(0.531077) | train eval: 0.509142  | val eval: 0.522161  | test eval: 0.538793  (saved model)
+9 | train loss 0.491139(0.491139)(0.491141) | train eval: 0.615331  | val eval: 0.623269  | test eval: 0.645115  (saved model)
+10 | train loss 0.446202(0.446202)(0.446202) | train eval: 0.700598  | val eval: 0.677285  | test eval: 0.715517  (saved model)
+11 | train loss 0.398248(0.398248)(0.398249) | train eval: 0.754571  | val eval: 0.771468  | test eval: 0.795977  (saved model)
+12 | train loss 0.33775(0.33775)(0.33775) | train eval: 0.826477  | val eval: 0.83795  | test eval: 0.867816  (saved model)
+13 | train loss 0.294252(0.294252)(0.294252) | train eval: 0.894339  | val eval: 0.880886  | test eval: 0.896552  (saved model)
+14 | train loss 0.237514(0.237514)(0.237515) | train eval: 0.933368  | val eval: 0.896122  | test eval: 0.916667  (saved model)
+15 | train loss 0.213795(0.213795)(0.213795) | train eval: 0.947433  | val eval: 0.923823  | test eval: 0.945402  (saved model)
+16 | train loss 0.169017(0.169017)(0.169017) | train eval: 0.961322  | val eval: 0.925208  | test eval: 0.931034 
+17 | train loss 0.169653(0.169653)(0.169653) | train eval: 0.964311  | val eval: 0.958449  | test eval: 0.952586  (saved model)
+18 | train loss 0.161793(0.161793)(0.161793) | train eval: 0.966069  | val eval: 0.963989  | test eval: 0.958333  (saved model)
+19 | train loss 0.151489(0.151489)(0.151489) | train eval: 0.97064  | val eval: 0.969529  | test eval: 0.974138  (saved model)
+20 | train loss 0.133716(0.133716)(0.133716) | train eval: 0.974508  | val eval: 0.959834  | test eval: 0.95546 

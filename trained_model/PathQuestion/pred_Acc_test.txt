@@ -1,0 +1,696 @@
+1	1.0	***	claudius parents nationality	***	roman empire
+2	1.0	***	shah shuja children -1 children	***	shah shuja
+3	1.0	***	tasha tudor parents institution	***	harvard university
+4	1.0	***	charles lennox 1st duke of richmond children parents	***	charles lennox 1st duke of richmond
+5	1.0	***	john i of denmark parents nationality	***	germany
+6	1.0	***	john i of denmark parents nationality	***	germany
+7	1.0	***	adelaide of lowenstein wertheim rosenberg children gender	***	female
+8	1.0	***	anna e roosevelt parents cause of death	***	cerebral hemorrhage/tuberculosis
+9	1.0	***	anna e roosevelt parents cause of death	***	cerebral hemorrhage/tuberculosis
+10	1.0	***	william talbot children profession	***	politician/lawyer
+11	1.0	***	john f kennedy jr parents institution	***	london school of economics/riverdale country school/choate rosemary hall
+12	1.0	***	constantine viii children place of death	***	constantinople
+13	1.0	***	princess beatrice of the united kingdom children gender	***	male
+14	1.0	***	princess beatrice of the united kingdom children gender	***	male
+15	1.0	***	christian x of denmark children gender	***	male
+16	1.0	***	christian x of denmark children gender	***	male
+17	1.0	***	marguerite of france parents place of birth	***	leuven
+18	1.0	***	mae west spouse gender	***	male
+19	1.0	***	adolf frederick of sweden children cause of death	***	assassination/firearm/regicide
+20	1.0	***	john a roebling children profession	***	engineer
+21	1.0	***	blessed virgin mary children profession	***	carpenter
+22	1.0	***	george darwin parents cause of death	***	coronary thrombosis
+23	1.0	***	george darwin parents religion	***	anglicanism/agnosticism
+24	1.0	***	isabella of castile children nationality	***	spain
+25	1.0	***	edith craig parents profession	***	architect
+26	0.0	***	adolf hitler spouse spouse -1	***	adolf hitler
+27	1.0	***	adolf hitler spouse cause of death	***	suicide/cyanide poisoning
+28	1.0	***	grand duchess alexandra petrovna children children	***	princess marina petrovna of russia/princess nadejda petrovna of russia
+29	1.0	***	grand duchess alexandra petrovna children spouse	***	anastasia of montenegro
+30	1.0	***	sarah spouse -1 religion	***	judaism
+31	1.0	***	constantine xi parents gender	***	male
+32	1.0	***	virginia heinlein spouse institution	***	united states naval academy
+33	1.0	***	charles i of england children parents	***	henrietta maria of france
+34	1.0	***	colleen dewhurst spouse gender	***	male
+35	1.0	***	arthur de wint foote spouse profession	***	writer
+36	1.0	***	mieszko iv tanglefoot parents gender	***	male
+37	1.0	***	ludwig ii of bavaria parents gender	***	male
+38	1.0	***	hortense de beauharnais children nationality	***	france
+39	1.0	***	artavasdes i of armenia children gender	***	male
+40	1.0	***	artavasdes i of armenia children ethnicity	***	armenians
+41	1.0	***	john hays hammond children profession	***	inventor
+42	1.0	***	julie london spouse -1 spouse -1	***	julie london
+43	1.0	***	philip iii of navarre parents nationality	***	france
+44	1.0	***	p j kennedy children children	***	patricia kennedy lawford/rosemary kennedy
+45	1.0	***	emperor temmu children profession	***	writer
+46	1.0	***	ekaterina svanidze spouse gender	***	male
+47	1.0	***	pearl starr parents gender	***	female
+48	1.0	***	louis ix of france children gender	***	male
+49	1.0	***	mikolaj vii radziwill parents gender	***	female
+50	1.0	***	thutmose iv parents gender	***	male
+51	1.0	***	thutmose iv parents gender	***	male
+52	1.0	***	anne of denmark children profession	***	poet
+53	1.0	***	roy e disney parents place of death	***	burbank
+54	1.0	***	alexander darcy spouse -1 profession	***	actor
+55	1.0	***	ramon berenguer i count of barcelona parents nationality	***	spain
+56	1.0	***	major ridge children ethnicity	***	cherokee/native americans in the united states
+57	1.0	***	louis xvi of france parents cause of death	***	tuberculosis
+58	1.0	***	louis xvi of france parents cause of death	***	tuberculosis
+59	1.0	***	lew cody spouse nationality	***	united states
+60	1.0	***	lew cody spouse gender	***	female
+61	1.0	***	augustus ii the strong children place of death	***	avignon
+62	1.0	***	doris dowling spouse profession	***	composer
+63	1.0	***	doris dowling spouse profession	***	composer
+64	1.0	***	lord robert manners parents gender	***	male
+65	1.0	***	ethel lilian voynich parents profession	***	mathematician
+66	1.0	***	skip caray parents cause of death	***	cardiovascular disease
+67	1.0	***	skip caray parents location	***	st louis missouri
+68	1.0	***	skip caray parents location	***	st louis missouri
+69	1.0	***	aurangzeb children gender	***	male
+70	1.0	***	ferdinand ii of the two sicilies parents religion	***	roman catholic church
+71	1.0	***	margaret of artois spouse nationality	***	france
+72	1.0	***	franz josef i prince of liechtenstein children religion	***	catholicism
+73	1.0	***	hussein of jordan parents gender	***	male
+74	1.0	***	hussein of jordan parents gender	***	male
+75	1.0	***	richard mulligan spouse profession	***	actor
+76	1.0	***	richard mulligan spouse profession	***	actor
+77	1.0	***	prince joachim of prussia parents institution	***	university of bonn
+78	1.0	***	prince joachim of prussia parents parents	***	frederick iii german emperor
+79	1.0	***	james hepburn 4th earl of bothwell spouse cause of death	***	decapitation
+80	1.0	***	james hepburn 4th earl of bothwell spouse spouse	***	francis ii of france
+81	1.0	***	james hepburn 4th earl of bothwell spouse religion	***	catholicism
+82	1.0	***	jeanne ii countess of burgundy spouse gender	***	male
+83	1.0	***	felipe prospero of habsburg parents children	***	john of austria the younger
+84	1.0	***	gaius marius spouse gender	***	male
+85	1.0	***	gaius marius spouse gender	***	male
+86	1.0	***	kalama spouse gender	***	male
+87	1.0	***	michael i rangabe children gender	***	male
+88	1.0	***	philippine elisabeth of orleans parents gender	***	male
+89	1.0	***	charlotte duchess of albany parents gender	***	male
+90	1.0	***	rasmus bartholin parents institution	***	university of copenhagen
+91	1.0	***	rasmus bartholin parents gender	***	male
+92	1.0	***	roger needham spouse nationality	***	united kingdom
+93	1.0	***	francis iv duke of modena children children	***	carlos duke of madrid
+94	1.0	***	francis iv duke of modena children place of death	***	graz
+95	1.0	***	chagatai khan parents ethnicity	***	mongols
+96	1.0	***	frank lloyd wright children gender	***	male
+97	1.0	***	harry hay spouse -1 profession	***	inventor
+98	1.0	***	harry hay spouse -1 gender	***	male
+99	1.0	***	lady cynthia mosley parents gender	***	female
+100	1.0	***	chulalongkorn children children	***	nakkhatra mangkala kitiyakara
+101	1.0	***	pearl bailey spouse gender	***	male
+102	1.0	***	albert vii archduke of austria spouse gender	***	female
+103	1.0	***	rani mangammal spouse religion	***	hinduism
+104	0.0	***	rani mangammal spouse religion religion -1	***	chokkanatha nayak/jodhabai/kishore kumar/indira gandhi
+105	1.0	***	edward salisbury dana parents nationality	***	united states
+106	1.0	***	nicholas ii of russia children gender	***	female
+107	1.0	***	nicholas ii of russia children cause of death	***	murder/firearm
+108	1.0	***	vratislaus ii of bohemia parents nationality	***	germany
+109	1.0	***	princess sophia dorothea of prussia parents children	***	frederick ii of prussia/princess friederike luise of prussia
+110	1.0	***	princess sophia dorothea of prussia parents children	***	frederick ii of prussia/princess friederike luise of prussia
+111	1.0	***	princess sophia dorothea of prussia parents gender	***	male
+112	1.0	***	princess sophia dorothea of prussia parents parents	***	sophia dorothea of celle
+113	1.0	***	john spencer churchill 7th duke of marlborough children nationality	***	united kingdom/england
+114	1.0	***	john spencer churchill 7th duke of marlborough children nationality	***	united kingdom/england
+115	1.0	***	j p morgan jr parents religion	***	anglicanism
+116	1.0	***	techichpotzin parents gender	***	male
+117	1.0	***	anahareo spouse nationality	***	united states/canada
+118	1.0	***	anahareo spouse cause of death	***	pneumonia
+119	1.0	***	doris blackburn spouse profession	***	lawyer
+120	1.0	***	archduke louis of austria parents children	***	archduke joseph of austria palatine of hungary/rudolf cardinal von habsburg lothringen
+121	1.0	***	archduke louis of austria parents children	***	archduke joseph of austria palatine of hungary/rudolf cardinal von habsburg lothringen
+122	1.0	***	george formby parents gender	***	male
+123	1.0	***	matilda of flanders spouse gender	***	male
+124	1.0	***	noble consort wan spouse ethnicity	***	manchu
+125	1.0	***	noble consort wan spouse ethnicity	***	manchu
+126	1.0	***	augusta viktoria of schleswig-holstein children gender	***	male
+127	1.0	***	archduke carl ludwig of austria parents -1 children	***	prince ernst von hohenberg
+128	1.0	***	archduke carl ludwig of austria children place of birth	***	graz
+129	1.0	***	james otis sr children cause of death	***	lightning
+130	1.0	***	yaroslav i the wise children gender	***	male
+131	1.0	***	james cruze spouse gender	***	female
+132	1.0	***	sam marx children spouse	***	susan fleming
+133	1.0	***	augusta of saxe-weimar children parents	***	william i german emperor
+134	1.0	***	vilhelmine marie of denmark spouse nationality	***	denmark
+135	1.0	***	sviatoslav ii of kiev parents gender	***	male
+136	1.0	***	albert of saxe-coburg and gotha children children	***	victoria eugenia of battenberg/alexandra fyodorovna of hesse/prince maurice of battenberg
+137	1.0	***	albert of saxe-coburg and gotha children cause of death	***	infectious disease
+138	1.0	***	elizabeth blair lee spouse profession	***	naval officer
+139	1.0	***	nathan mayer rothschild children nationality	***	united kingdom
+140	1.0	***	nathan mayer rothschild children nationality	***	united kingdom
+141	1.0	***	pierre curie children gender	***	female
+142	1.0	***	laura devon spouse institution	***	university of michigan/university of notre dame
+143	1.0	***	laura devon spouse institution	***	university of michigan/university of notre dame
+144	1.0	***	infante joao of portugal parents children	***	edward of portugal/infante joao of portugal/infanta isabel duchess of burgundy
+145	1.0	***	caesonia spouse cause of death	***	tyrannicide
+146	1.0	***	caesonia spouse cause of death	***	tyrannicide
+147	1.0	***	william kissam vanderbilt parents parents	***	cornelius vanderbilt
+148	1.0	***	thomas spurgeon children -1 religion	***	christian
+149	1.0	***	leonora of england parents children	***	geoffrey ii duke of brittany
+150	1.0	***	titus van rijn parents nationality	***	netherlands
+151	1.0	***	titus van rijn parents place of death	***	amsterdam
+152	1.0	***	jahangir children gender	***	male
+153	1.0	***	jahangir children gender	***	male
+154	1.0	***	jahangir children children	***	dara shikoh
+155	1.0	***	maria luisa of parma children place of death	***	trieste
+156	1.0	***	leopold grand duke of baden children children	***	grand duchess anastasia mikhailovna of russia/grand duke alexei mikhailovich of russia
+157	1.0	***	vittorio emanuele count of turin parents place of birth	***	turin
+158	1.0	***	john d rockefeller jr children nationality	***	united states
+159	1.0	***	anna radziwill spouse gender	***	male
+160	1.0	***	john iv of portugal children gender	***	male
+161	1.0	***	john iv of portugal children gender	***	male
+162	1.0	***	victor emmanuel iii of italy spouse place of birth	***	cetinje
+163	1.0	***	franz joseph i of austria spouse gender	***	female
+164	1.0	***	anna lee spouse profession	***	screenwriter
+165	1.0	***	joseph e davies spouse -1 gender	***	female
+166	1.0	***	joseph e davies spouse -1 spouse	***	joseph e davies
+167	0.0	***	john of gaunt 1st duke of lancaster children gender	***	female
+168	1.0	***	kira kirillovna of russia spouse gender	***	male
+169	0.0	***	kira kirillovna of russia parents gender	***	female
+170	1.0	***	grand duke michael mihailovich of russia children gender	***	female
+171	1.0	***	elena of montenegro parents gender	***	male
+172	1.0	***	frank reicher parents nationality	***	germany
+173	1.0	***	andronikos iii palaiologos spouse gender	***	female
+174	0.0	***	andronikos iii palaiologos spouse gender gender -1	***	carole lombard/lady anne cavendish bentinck/princess charlotte of prussia/archduchess gisela of austria/infanta amelia philippina of spain/helen vinson/irene joliot-curie/princess margaret of prussia/princess alexandra of edinburgh and saxe-coburg-gotha/princess elizabeth of england/simone signoret/eleanor of spain/marie of orleans/frances polidori/julia lennon/christina of sweden/princess louise victoire dorleans alencon/charlotte of spain/lilian baels/princess cecilie of greece and denmark/anna of habsburg/anna of austria/mary josephine hannon fitzgerald/sophia magdalen of brandenburg-kulmbach/charlotte of mecklenburg-strelitz/claude of valois/victoria princess royal/luz magsaysay/joan hackett/catherine carey/elizabeth woodville/agnes of bohemia/infanta beatriz of spain/henrietta maria of france/grand duchess maria nikolaevna of russia/anne of cleves/maria luisa of orleans/ida lupino/infanta isabella clara eugenia of spain/louise henriette de bourbon conti/mary curzon baroness curzon of kedleston/lew cody/countess palatine caroline of zweibrucken/princess louise charlotte of denmark/effie gray/anne of austria/blanche i of navarre/anne duchess of maine/eleanor of castile/sophia of hanover/hortense de beauharnais/katarzyna tomicka/elisabeth of tirol/martha jefferson randolph/maria antonia of portugal/maria amalia of the two sicilies/stephanie of hohenzollern sigmaringen/eleanor wilson mcadoo/queen emma of hawaii/dorothea of brandenburg/alia al hussein/tey/marjorie merriweather post/eleanor stewart princess of scotland/alexandra pavlovna of russia/princess mary of great britain/elizabeth cady stanton/princess helena of the united kingdom/maria theresia of austria-este/juliana maria of brunswick wolfenbuttel/princess victoria melita of edinburgh and saxe-coburg-gotha/karen sparck jones/mette marit crown princess of norway/scribonia/anne of brittany/joan of england queen of sicily/anne of denmark/vipsania agrippina/olga feodorovna grand duchess of russia/maria of habsburg archduchess of austria/sylvia plath/fredegund/radegund/catherine of aragon/anna katarzyna sanguszko/nadejda mountbatten marchioness of milford haven/cleopatra selene/maria alexandrovna of russia/laura devon/bess meredyth/nefertari/princess yolanda margherita of savoy/katarzyna barbara radziwill/marie de champagne/pulcheria/joan de geneville baroness geneville/maria teresa of the two sicilies/anne van keppel countess of albemarle/eulalia duchess of galliera/elizabeth bourchier/princess mathilde of saxony/sybille of cleves/eleonore of solms hohensolms lich/archduchess marie caroline of austria/victoria kinoiki kekaulike/betty compson/infanta maria teresa of spain/julia the elder/grand duchess vera konstantinovna of russia/anna lee/anastasia of montenegro/princess sophie helene beatrix of france/kunigunde of austria/borte/margaret of parma/liutgard/elizabeth i of england/princess katherine of greece and denmark/josephine de beauharnais/diana barrymore/marie louise duchess of parma/gisela of swabia/cecilia renata of austria/sophia alekseyevna/eudoxia of moscow/rose mcconnell long/adele of champagne/caroline webster schermerhorn astor/sunandha/elisabeth st michel/eva macmurrough/julia ward howe/maria josepha of portugal/grand duchess elizabeth mikhailovna/barbara of portugal/edna best/empress myeongseong/aelia paetina/eleanor of alburquerque/belle starr/mary anne disraeli 1st viscountess beaconsfield/elisabeth of france/sylvia brett/blanche of lancaster/anne of bohemia/anna sophia ii abbess of quedlinburg/ines mendoza/charlotte duchess of albany/ethel lilian voynich/princess viktoria luise of prussia/joana princess of beira/elena of greece and denmark/mae west/casimir margrave of brandenburg bayreuth/antonia major/mary of teck/abigail kapiolani kawananakoa/margaret sullavan/maria ii of portugal/berenice ii/alexandra vasilievna countess zhukavskaya/joan crawford/gerberga of saxony/philippa of lancaster/adelaide of saxe-meiningen/princess charlotte augusta of wales/lilli palmer/beatrice of england/princess sophie of greece and denmark/allison defeo/joan beaufort queen of scotland/ivy cavendish bentinck duchess of portland/elisabeth of bavaria/william h seward/isabella of mar/frederica of mecklenburg-strelitz/mary dimmick harrison/marie-anne pierrette paulze/anna of savoy/cleopatra iv of egypt/ellen terry/constance of aragon/sorghaghtani beki/caesonia/isabel of spain princess of asturias/jennie churchill/marie antoinette of tuscany/mabel normand/piroska of hungary/alva belmont/philippa of hainault/almodis de la marche/matilda of ringelheim/mutnedjmet/abigail campbell kawananakoa/maria winteler einstein/catherine pavlovna of russia/jane wyman/urraca princess of castile/mary somerset duchess of beaufort/auguste van pels/anna e roosevelt/sigrid the haughty/catherine dolgorukov/eva marshal/adelaide of aquitaine/catharina of sweden/marie antoinette/alice betty stern/anna pavlovna of russia/isabella of jerusalem/sophia of prussia/princess helene of orleans/rosemary kennedy/anne duchess of montpensier/eleanor roosevelt/princess alice of battenberg/mary i of scotland/princess ileana of romania/jeanne devreux/alice spencer/princess caroline elizabeth of great britain/pauline koch
+175	1.0	***	arleen whelan spouse spouse	***	arleen whelan
+176	1.0	***	phillip terry spouse nationality	***	france
+177	1.0	***	marie of edinburgh children gender	***	male/female
+178	1.0	***	archduke johann of austria parents parents nationality	***	spain
+179	1.0	***	archduke johann of austria parents parents place of birth	***	dresden
+180	1.0	***	archduke johann of austria parents parents children	***	gabriel de borbon/charles iv of spain
+181	1.0	***	princess louise charlotte of denmark children children parents	***	christian ix of denmark
+182	1.0	***	isabel princess imperial of brazil parents children cause of death	***	yellow fever
+183	1.0	***	prince christian victor of schleswig-holstein children -1 children institution	***	magdalen college oxford
+184	1.0	***	prince christian victor of schleswig-holstein parents children parents	***	princess helena of the united kingdom
+185	1.0	***	julia lennon parents -1 parents gender	***	female
+186	1.0	***	julia lennon parents -1 parents children	***	john lennon
+187	1.0	***	clotaire i spouse spouse gender	***	male
+188	1.0	***	clotaire i spouse spouse spouse	***	radegund
+189	1.0	***	carlos thompson spouse spouse gender	***	male
+190	1.0	***	victoria princess royal children children spouse	***	carol ii of romania
+191	1.0	***	victoria princess royal children children cause of death	***	animal attack
+192	1.0	***	victoria princess royal children children place of birth	***	athens
+193	1.0	***	marjorie merriweather post spouse -1 spouse gender	***	female
+194	1.0	***	marjorie merriweather post spouse -1 spouse spouse -1	***	joseph e davies
+195	1.0	***	richard de clare 2nd earl of pembroke spouse children parents	***	richard de clare 2nd earl of pembroke/eva macmurrough
+196	1.0	***	henry v holy roman emperor spouse spouse spouse	***	empress matilda
+197	1.0	***	princess adelgunde of bavaria children -1 children place of birth	***	wurzburg
+198	1.0	***	princess adelgunde of bavaria children -1 children parents	***	maria theresia of austria-este
+199	1.0	***	mary tudor children children cause of death	***	decapitation
+200	1.0	***	canute the great parents spouse children	***	canute the great
+201	1.0	***	eleanor of castile children parents parents	***	ferdinand iii of castile
+202	1.0	***	eleanor of castile children parents children	***	margaret plantagenet/elizabeth of rhuddlan
+203	1.0	***	eleanor of castile parents parents children	***	ferdinand iii of castile
+204	1.0	***	svante nilsson parents -1 parents gender	***	male
+205	1.0	***	ernest augustus duke of york and albany parents parents children	***	prince rupert of the rhine
+206	1.0	***	william gibbs mcadoo spouse -1 spouse profession	***	politician
+207	1.0	***	lillian lux spouse -1 spouse spouse	***	pesach burstein
+208	1.0	***	leopold prince of hohenzollern sigmaringen children children gender	***	male
+209	1.0	***	tey spouse -1 spouse spouse	***	ay
+210	1.0	***	prince feodor alexandrovich of russia parents parents profession	***	monarch/emperor
+211	1.0	***	joan de geneville baroness geneville children parents children	***	katherine mortimer countess of warwick
+212	1.0	***	marguerite of france parents spouse place of birth	***	poissy
+213	0.0	***	marguerite of france children parents parents	***	alfonso ix of leon
+214	1.0	***	john lennon children -1 children religion	***	atheism
+215	1.0	***	maria alexandrovna of russia children parents nationality	***	united kingdom
+216	1.0	***	maria alexandrovna of russia children parents place of death	***	zurich
+217	1.0	***	ferdinand ii of portugal children parents religion	***	catholicism
+218	1.0	***	maria theresa of austria spouse children place of death	***	klagenfurt/vienna
+219	0.0	***	maria theresa of austria children children profession	***	cardinal
+220	1.0	***	maria theresa of austria spouse spouse spouse	***	francis i holy roman emperor
+221	1.0	***	maria theresa of austria children children gender	***	male
+222	0.0	***	piam spouse spouse spouse	***	mongkut
+223	1.0	***	piam spouse children children	***	paripatra/chudadhut dharadilok/sirabhorn sobhon/yugala dighambara/kitiyakara voralaksana
+224	1.0	***	piam spouse children gender	***	male
+225	1.0	***	piam spouse -1 spouse spouse	***	mongkut
+226	1.0	***	catherine of braganza parents children gender	***	male
+227	1.0	***	elisabeth ii of bohemia children children gender	***	male
+228	1.0	***	elisabeth ii of bohemia children children spouse	***	bona sforza
+229	1.0	***	elisabeth ii of bohemia children children parents	***	casimir iv jagiellon
+230	1.0	***	ferdinand i of the two sicilies parents children religion	***	catholicism
+231	1.0	***	ferdinand i of the two sicilies parents children place of death	***	rome
+232	1.0	***	marie dagoult children children profession	***	conducting/composer
+233	1.0	***	august anheuser busch sr children parents place of birth	***	st louis missouri
+234	1.0	***	august anheuser busch sr parents -1 parents gender	***	male
+235	1.0	***	elisabeth of austria 1526 parents children place of birth	***	prague
+236	1.0	***	albert iv duke of bavaria spouse spouse parents	***	albert iii duke of bavaria
+237	1.0	***	hortense de beauharnais parents spouse children	***	hortense de beauharnais
+238	1.0	***	hortense de beauharnais parents children gender	***	female
+239	1.0	***	elisabeth of bavaria parents children gender	***	female
+240	1.0	***	elisabeth of bavaria parents children location	***	munich
+241	1.0	***	jacqueline kennedy onassis children parents place of birth	***	brookline
+242	1.0	***	ferdinand i holy roman emperor children parents children	***	maria of habsburg archduchess of austria/catherine of austria/eleanor of austria
+243	0.0	***	ferdinand i holy roman emperor parents -1 parents parents	***	philip i of castile
+244	1.0	***	wilfrid scawen blunt spouse parents spouse	***	ada lovelace
+245	1.0	***	minnie marx spouse children place of death	***	los angeles
+246	1.0	***	minnie marx spouse children location	***	new york
+247	1.0	***	minnie marx spouse children location	***	new york
+248	1.0	***	edith craig parents spouse children	***	edith craig
+249	1.0	***	princess marie auguste of anhalt parents children parents	***	eduard duke of anhalt
+250	1.0	***	chimalpopoca children -1 children gender	***	male
+251	1.0	***	chimalpopoca children -1 children gender	***	male
+252	1.0	***	frederick william iii of prussia spouse children children	***	grand duke konstantin nikolayevich of russia
+253	1.0	***	grand duchess alexandra petrovna children spouse parents	***	nicholas i of montenegro
+254	1.0	***	grand duchess alexandra petrovna children children parents	***	grand duke peter nicolaievich of russia
+255	1.0	***	charles iv of france spouse spouse spouse	***	jeanne devreux/marie de luxembourg queen of france
+256	1.0	***	henry vii of england spouse -1 spouse spouse	***	elizabeth of york
+257	1.0	***	princess margaret of prussia parents children gender	***	female
+258	1.0	***	princess margaret of prussia parents children gender	***	female
+259	1.0	***	eugene de beauharnais parents children gender	***	female
+260	1.0	***	eugene de beauharnais parents children children	***	napoleon iii of france
+261	1.0	***	anna jagiellon children -1 children place of death	***	warsaw
+262	1.0	***	harald iv of norway parents -1 parents children	***	inge i of norway
+263	1.0	***	margaret plantagenet children -1 parents children	***	alfonso x of castile
+264	1.0	***	maria anna of austria children children place of birth	***	munich
+265	1.0	***	maria fyodorovna of russia children parents cause of death	***	murder/regicide
+266	1.0	***	elisabeth marguerite of orleans parents children spouse	***	cosimo iii de medici grand duke of tuscany
+267	1.0	***	elisabeth of wurttemberg spouse parents children	***	archduke joseph of austria palatine of hungary/rudolf cardinal von habsburg lothringen
+268	0.0	***	arcadius spouse -1 spouse parents -1	***	pulcheria
+269	1.0	***	charles ii of naples children parents gender	***	male
+270	1.0	***	scribonia children spouse gender	***	male
+271	1.0	***	scribonia children parents gender	***	female
+272	1.0	***	zofia teofillia danilowicz children children nationality	***	poland
+273	1.0	***	alexandra fyodorovna of hesse children parents children	***	grand duchess maria nikolaevna of russia
+274	1.0	***	alexandra fyodorovna of hesse children parents parents	***	maria fyodorovna
+275	1.0	***	yaroslav i the wise children parents children	***	iziaslav i of kiev
+276	1.0	***	alexandre vicomte de beauharnais children children nationality	***	france
+277	1.0	***	alexandre vicomte de beauharnais children parents spouse	***	alexandre vicomte de beauharnais
+278	1.0	***	alexandre vicomte de beauharnais children parents children	***	hortense de beauharnais
+279	1.0	***	john burnside 1916 spouse -1 spouse gender	***	male
+280	1.0	***	john burnside 1916 spouse spouse profession	***	inventor
+281	1.0	***	chiang kai-shek children parents religion	***	christianity
+282	1.0	***	magdalen dacre viscountess montagu spouse -1 spouse religion	***	roman catholic church
+283	1.0	***	julie london spouse -1 spouse spouse	***	bobby troup
+284	1.0	***	benedita dowager princess of brazil children -1 spouse religion	***	catholicism
+285	1.0	***	benedita dowager princess of brazil children -1 spouse religion	***	catholicism
+286	1.0	***	fred perry spouse -1 spouse spouse	***	helen vinson
+287	1.0	***	p j kennedy children children place of death	***	new york county
+288	1.0	***	john b kelly sr children spouse gender	***	male
+289	0.0	***	alice of the united kingdom children children nationality	***	russia
+290	1.0	***	thomas quiney spouse parents profession	***	poet/writer
+291	0.0	***	susanna of bavaria parents spouse spouse	***	kunigunde of austria
+292	1.0	***	ghazi of iraq children parents place of birth	***	mecca
+293	1.0	***	baldwin v count of flanders children children spouse	***	edith of scotland
+294	1.0	***	baldwin v count of flanders children spouse children	***	robert iii duke of normandy
+295	1.0	***	henri dorleans duc daumale parents spouse children	***	antoine duke of montpensier
+296	1.0	***	ferdinand iv grand duke of tuscany parents children place of birth	***	florence
+297	1.0	***	charles ferdinand duc de berry parents children place of birth	***	palace of versailles
+298	1.0	***	princess anna amalia of prussia parents children nationality	***	germany
+299	1.0	***	margaret of parma spouse children nationality	***	spain
+300	1.0	***	margaret of artois spouse parents religion	***	catholicism
+301	1.0	***	margaret of artois spouse parents gender	***	male
+302	1.0	***	margaret of artois spouse parents gender	***	male
+303	1.0	***	ogden l mills parents parents gender	***	male
+304	1.0	***	ogden l mills parents parents children	***	ogden mills
+305	0.0	***	mariana victoria of spain parents children children	***	benedita dowager princess of brazil
+306	1.0	***	mariana victoria of spain parents children nationality	***	portugal/spain
+307	1.0	***	josephine de beauharnais spouse children children	***	napoleon iii of france
+308	1.0	***	josephine de beauharnais children children gender	***	male
+309	1.0	***	henrietta anne stuart spouse spouse location	***	heidelberg
+310	1.0	***	wang khan children children parents	***	sorghaghtani beki
+311	1.0	***	gojong of korea parents children parents	***	daewon-gun
+312	1.0	***	gojong of korea parents children parents	***	daewon-gun
+313	1.0	***	eadgifu of england parents parents religion	***	catholicism
+314	1.0	***	alexandra fyodorovna children children nationality	***	russia
+315	0.0	***	groucho marx parents spouse -1 spouse	***	sam marx
+316	1.0	***	mongkut children children gender	***	male
+317	1.0	***	mongkut spouse spouse spouse	***	piam
+318	1.0	***	beatriz of portugal spouse spouse spouse	***	infante fernando duke of viseu
+319	1.0	***	beatriz of portugal spouse spouse spouse	***	infante fernando duke of viseu
+320	1.0	***	kaiulani parents spouse gender	***	male
+321	1.0	***	richilde of provence spouse parents -1 parents	***	ermentrude of orleans/charles the bald
+322	1.0	***	adolphe grand duke of luxembourg spouse -1 spouse gender	***	male
+323	1.0	***	anne of denmark children spouse parents	***	louise juliana of nassau
+324	1.0	***	eleanor of alburquerque children spouse children	***	charles of viana
+325	1.0	***	paripatra parents children gender	***	male
+326	1.0	***	claudine rhedey von kis rhede children parents nationality	***	hungary
+327	1.0	***	princess mathilde of bavaria parents children place of birth	***	wurzburg
+328	1.0	***	olof of sweden children parents children	***	iziaslav i of kiev
+329	1.0	***	major ridge children children -1 children	***	john ridge
+330	1.0	***	louis xvi of france parents children ethnicity	***	french people
+331	1.0	***	louis xvi of france children parents parents	***	louis dauphin de france
+332	1.0	***	louis xvi of france children parents children	***	princess sophie helene beatrix of france
+333	1.0	***	princess victoria melita of edinburgh and saxe-coburg-gotha children parents children	***	kira kirillovna of russia
+334	1.0	***	constance of arles spouse spouse spouse	***	robert ii of france
+335	1.0	***	barbara of portugal spouse spouse spouse	***	ferdinand vi of spain
+336	1.0	***	princess beatrice of the united kingdom children spouse gender	***	male
+337	1.0	***	princess beatrice of the united kingdom parents children children	***	victoria eugenia of battenberg/alexandra fyodorovna of hesse/prince maurice of battenberg
+338	1.0	***	princess beatrice of the united kingdom parents children parents	***	albert of saxe-coburg and gotha/victoria of the united kingdom
+339	1.0	***	princess beatrice of the united kingdom parents children institution	***	trinity college cambridge
+340	1.0	***	james mayer de rothschild children parents profession	***	banker
+341	1.0	***	james mayer de rothschild children parents parents	***	mayer amschel rothschild
+342	1.0	***	aristotle onassis spouse children place of death	***	atlantic ocean
+343	1.0	***	pesach burstein spouse spouse nationality	***	israel
+344	1.0	***	sigismund iii vasa children parents religion	***	catholicism
+345	1.0	***	eleanor of aquitaine children children gender	***	male
+346	1.0	***	alia al hussein spouse -1 spouse spouse	***	hussein of jordan
+347	1.0	***	charles xiii of sweden parents spouse children	***	gustav iii of sweden/prince frederick adolf of sweden
+348	1.0	***	charles xiii of sweden parents spouse place of death	***	stockholm palace
+349	1.0	***	charles xiii of sweden parents parents gender	***	male
+350	1.0	***	charles xiii of sweden parents parents children	***	frederick ii of prussia
+351	1.0	***	pepin i of aquitaine parents parents gender	***	male
+352	1.0	***	philip i of castile children parents children	***	isabella of burgundy
+353	1.0	***	vipsania agrippina spouse -1 children place of birth	***	rome
+354	1.0	***	sophia of hanover parents children nationality	***	germany
+355	1.0	***	paul newman parents -1 parents institution	***	kenyon college
+356	1.0	***	henry v count palatine of the rhine parents parents spouse	***	gertrud of supplingenburg
+357	1.0	***	francis i of france children children gender	***	male/female
+358	1.0	***	elizabeth de burgh spouse spouse gender	***	female
+359	1.0	***	soong may-ling children parents institution	***	wellesley college
+360	1.0	***	louise of hesse-kassel children parents nationality	***	denmark
+361	1.0	***	charles edison children -1 children parents	***	thomas edison
+362	1.0	***	john vi of portugal children parents religion	***	catholicism
+363	1.0	***	john vi of portugal parents -1 parents children	***	peter i of brazil
+364	1.0	***	franz liszt children parents religion	***	catholicism
+365	1.0	***	jesus parents parents -1 parents	***	blessed virgin mary
+366	0.0	***	christian ii of denmark parents parents parents	***	frederick ii elector of saxony
+367	1.0	***	leonard jerome children children profession	***	member of parliament/writer/journalist/author
+368	1.0	***	prince miguel duke of viseu parents parents nationality	***	portugal
+369	1.0	***	prince miguel duke of viseu parents parents children	***	miguel ii duke of braganza/infanta maria das neves of portugal/maria josepha of portugal
+370	1.0	***	qianlong emperor children -1 children children	***	jiaqing emperor
+371	1.0	***	george washington parke custis children spouse cause of death	***	pneumonia
+372	0.0	***	george washington parke custis children children -1 children	***	mary anna custis lee
+373	1.0	***	princess elisabeth maria of bavaria parents children gender	***	male
+374	1.0	***	princess elisabeth maria of bavaria parents children parents	***	prince alfons of bavaria
+375	1.0	***	wallace reid spouse parents cause of death	***	myocardial infarction
+376	1.0	***	jodhabai children children gender	***	male
+377	1.0	***	jodhabai children children gender	***	male
+378	1.0	***	ina claire spouse spouse location	***	greenwich connecticut
+379	1.0	***	charles e mullen parents parents -1 parents	***	gunnery sergeant john e mullin
+380	1.0	***	prince joachim of prussia parents parents gender	***	male
+381	1.0	***	prince joachim of prussia parents parents children	***	princess charlotte of prussia
+382	1.0	***	frederick ii duke of saxe gotha altenburg children -1 children parents	***	frederick i duke of saxe gotha altenburg
+383	1.0	***	garcia i of leon parents children gender	***	male
+384	1.0	***	marguerite duchess of orleans children spouse place of birth	***	florence
+385	1.0	***	isabel of spain princess of asturias parents parents religion	***	roman catholic church
+386	1.0	***	eulalia duchess of galliera children spouse parents	***	maria alexandrovna of russia
+387	1.0	***	francoise daubigne marquise de maintenon spouse parents gender	***	female
+388	1.0	***	francoise daubigne marquise de maintenon spouse parents gender	***	female
+389	1.0	***	constance of aragon spouse spouse place of birth	***	acre israel
+390	1.0	***	frederick ii holy roman emperor children parents place of birth	***	acre israel
+391	1.0	***	prince joseph clemens of bavaria parents children gender	***	male
+392	1.0	***	prince joseph clemens of bavaria parents children parents	***	prince alfons of bavaria
+393	1.0	***	princess tia parents parents children	***	seti i
+394	1.0	***	bezmialem children parents -1 children -1	***	abdulmecid
+395	1.0	***	miguel of portugal children parents religion	***	catholicism
+396	1.0	***	juliana maria of brunswick wolfenbuttel spouse parents gender	***	female
+397	1.0	***	gussie busch parents children parents	***	august anheuser busch sr
+398	1.0	***	archduke otto franz of austria parents children children	***	prince ernst von hohenberg
+399	1.0	***	janet huntington brewster spouse -1 spouse -1 spouse	***	edward r murrow
+400	1.0	***	marguerite de valois parents children gender	***	male/female
+401	1.0	***	marguerite de valois parents children place of death	***	nancy
+402	1.0	***	marguerite de valois parents children place of death	***	nancy
+403	0.0	***	archduke franz ferdinand of austria parents -1 parents parents	***	archduke carl ludwig of austria/maria annunciata of the two sicilies
+404	1.0	***	francisco de paula duke of cadiz parents parents cause of death	***	tuberculosis
+405	1.0	***	francisco de paula duke of cadiz parents parents place of birth	***	dresden
+406	1.0	***	charles iv of spain parents children place of birth	***	portici
+407	1.0	***	charles iv of spain parents children religion	***	catholicism
+408	0.0	***	charles iv of spain parents -1 parents parents	***	maria amalia of saxony
+409	1.0	***	charles iv of spain parents children place of death	***	rome
+410	0.0	***	charles iv of spain parents -1 children children	***	miguel ii duke of braganza/infanta maria das neves of portugal/maria josepha of portugal
+411	1.0	***	charles iv of spain parents children children	***	francisco de paula duke of cadiz
+412	1.0	***	augustus de morgan children spouse profession	***	artist
+413	1.0	***	princess eugenie of sweden parents children gender	***	male
+414	1.0	***	princess eugenie of sweden parents children gender	***	male
+415	1.0	***	louise of baden parents children parents	***	karl ludwig of baden
+416	0.0	***	empress jito spouse spouse -1 spouse	***	emperor temmu
+417	0.0	***	empress jito spouse spouse -1 spouse	***	emperor temmu
+418	1.0	***	john george iii elector of saxony children children place of death	***	avignon
+419	1.0	***	miklos horthy spouse -1 spouse -1 spouse -1	***	magdolna purgly
+420	1.0	***	miklos horthy spouse spouse nationality	***	hungary
+421	1.0	***	casimir iv jagiellon children spouse nationality	***	austria
+422	1.0	***	casimir iv jagiellon children spouse nationality	***	austria
+423	1.0	***	alexandrine of mecklenburg-schwerin spouse children gender	***	male
+424	1.0	***	isabella of portugal children parents spouse	***	isabella of portugal
+425	1.0	***	isabella of portugal children parents children	***	joan of habsburg
+426	1.0	***	robert ii of france spouse spouse gender	***	male
+427	1.0	***	maria theresa of austria and tuscany spouse spouse spouse	***	charles albert of sardinia
+428	1.0	***	thursday october christian children -1 children children	***	thursday october christian ii
+429	1.0	***	georg donatus hereditary grand duke of hesse spouse parents spouse	***	princess alice of battenberg
+430	1.0	***	georg donatus hereditary grand duke of hesse spouse parents spouse	***	princess alice of battenberg
+431	1.0	***	georg donatus hereditary grand duke of hesse spouse children place of birth	***	darmstadt
+432	1.0	***	archduke franz karl of austria parents children nationality	***	hungary
+433	1.0	***	john campbell 9th duke of argyll spouse parents children	***	alice of the united kingdom/princess louise duchess of argyll/prince arthur duke of connaught and strathearn/princess beatrice of the united kingdom
+434	1.0	***	john campbell 9th duke of argyll spouse children -1 children	***	alice of the united kingdom/princess louise duchess of argyll/prince arthur duke of connaught and strathearn/princess beatrice of the united kingdom
+435	1.0	***	john campbell 9th duke of argyll spouse children -1 children	***	alice of the united kingdom/princess louise duchess of argyll/prince arthur duke of connaught and strathearn/princess beatrice of the united kingdom
+436	1.0	***	richard burton spouse -1 spouse gender	***	male
+437	1.0	***	richard burton spouse -1 spouse profession	***	actor
+438	1.0	***	prince heinrich of prussia parents parents place of birth	***	berlin
+439	1.0	***	louise henriette de bourbon conti spouse parents parents	***	francoise marie de bourbon
+440	1.0	***	tsarevich alexei nikolaevich of russia parents children cause of death	***	murder/firearm
+441	1.0	***	charles de valois duc dorleans parents children gender	***	male
+442	1.0	***	charles de valois duc dorleans parents spouse children	***	francois dauphin of france/henry ii of france
+443	1.0	***	prince francis joseph of braganza parents parents nationality	***	portugal
+444	1.0	***	sunandha parents spouse parents	***	sri suriyendra
+445	1.0	***	henry i of england parents spouse gender	***	male
+446	1.0	***	henry i of england parents spouse children	***	robert iii duke of normandy
+447	1.0	***	marie amalie of austria parents children place of birth	***	hofburg imperial palace
+448	1.0	***	marie amalie of austria parents spouse profession	***	emperor
+449	1.0	***	marie amalie of austria parents spouse spouse	***	maria theresa of austria
+450	1.0	***	lady anne blunt parents spouse place of birth	***	london
+451	1.0	***	gaius octavius children children -1 children	***	early life of augustus/augustus/octavia minor
+452	1.0	***	claire olivia newman children -1 children parents	***	joanne woodward/paul newman
+453	1.0	***	claire olivia newman children -1 children parents	***	joanne woodward/paul newman
+454	1.0	***	berenguela of castile parents parents gender	***	male
+455	1.0	***	abigail kapiolani kawananakoa parents children parents	***	abigail campbell kawananakoa/david kawananakoa
+456	1.0	***	abigail kapiolani kawananakoa parents children parents	***	abigail campbell kawananakoa/david kawananakoa
+457	1.0	***	john i of portugal children parents gender	***	male
+458	1.0	***	john i of portugal children children spouse	***	isabella of bourbon/margaret of york/joan princess of castile
+459	1.0	***	henri i de bourbon prince de conde parents children place of birth	***	la ferte sous jouarre
+460	0.0	***	chulalongkorn children children children	***	adulakit kitiyakara
+461	0.0	***	chulalongkorn children children children	***	adulakit kitiyakara
+462	1.0	***	chulalongkorn children parents parents	***	debsirindra
+463	1.0	***	sweyn i of denmark children parents spouse	***	sweyn i of denmark
+464	1.0	***	amelia of wurttemberg children parents children	***	alexandra iosifovna of altenburg
+465	1.0	***	roger sherman hoar parents children profession	***	novelist
+466	1.0	***	prince henry duke of gloucester parents parents nationality	***	united kingdom
+467	1.0	***	prince henry duke of gloucester parents children place of birth	***	sandringham
+468	1.0	***	prince henry duke of gloucester parents parents children	***	prince francis of teck
+469	1.0	***	henri victor regnault children parents place of birth	***	aachen
+470	1.0	***	henri victor regnault children parents place of birth	***	aachen
+471	1.0	***	joan of england queen of sicily parents parents place of birth	***	winchester
+472	1.0	***	alexis i of russia spouse children parents	***	alexis i of russia
+473	1.0	***	valentin serov children -1 children parents	***	alexander serov
+474	1.0	***	julia the elder parents children spouse	***	marcus vipsanius agrippa
+475	1.0	***	ted hughes children parents profession	***	poet/writer
+476	1.0	***	edith of scotland spouse spouse place of death	***	palace of westminster
+477	1.0	***	jenny von westphalen children parents children	***	laura marx/jenny longuet
+478	1.0	***	john f kennedy jr parents spouse profession	***	first lady/book editor
+479	1.0	***	john f kennedy jr parents spouse place of birth	***	southampton new york
+480	1.0	***	madeleine de bourbon-busset children children -1 children	***	carlos hugo of bourbon duke of parma
+481	1.0	***	princess sophie von hohenberg parents parents children	***	archduke franz ferdinand of austria
+482	1.0	***	walter rothschild 2nd baron rothschild parents children profession	***	politician
+483	1.0	***	jovian parents parents religion	***	christianity
+484	1.0	***	jovian parents parents children	***	constans
+485	1.0	***	joan beaufort queen of scotland spouse children gender	***	male
+486	1.0	***	osorkon iii parents -1 parents children	***	takelot iii
+487	1.0	***	nicholas ii of russia parents spouse profession	***	monarch/emperor
+488	1.0	***	faisal ii of iraq parents children institution	***	harrow school
+489	1.0	***	charlotte of spain children children nationality	***	portugal
+490	1.0	***	charlotte of spain children children parents	***	miguel of portugal
+491	1.0	***	charlotte of spain parents parents place of birth	***	dresden
+492	1.0	***	athelstan of england parents parents profession	***	nun
+493	1.0	***	carlos hugo of bourbon duke of parma parents children parents	***	madeleine de bourbon-busset
+494	1.0	***	carlos hugo of bourbon duke of parma parents children location	***	paris
+495	1.0	***	princess sophia dorothea of prussia parents children location	***	berlin
+496	1.0	***	louis xiii of france children children parents	***	louis xiv of france
+497	1.0	***	augustus iii of poland children -1 children religion	***	catholicism
+498	1.0	***	augustus iii of poland children -1 children parents	***	christiane eberhardine of brandenburg bayreuth
+499	1.0	***	jennie churchill children spouse children	***	diana churchill/randolph churchill
+500	1.0	***	ferdinand ii of aragon parents children gender	***	male
+501	1.0	***	constantine vii children children parents	***	nikephoros ii/theophano
+502	1.0	***	george of saxony children parents place of birth	***	dresden
+503	1.0	***	techichpotzin parents children gender	***	male
+504	1.0	***	michael curtiz spouse spouse spouse	***	bess meredyth
+505	1.0	***	ines mendoza spouse spouse spouse	***	luis munoz marin
+506	1.0	***	james e robinson children parents children	***	pauline robinson
+507	1.0	***	alexandra pavlovna of russia parents children gender	***	female
+508	1.0	***	alexandra pavlovna of russia parents children gender	***	female
+509	1.0	***	philibert i duke of savoy parents parents place of death	***	lyon
+510	1.0	***	gilbert talbot 7th earl of shrewsbury parents children gender	***	male
+511	1.0	***	gilbert talbot 7th earl of shrewsbury parents children parents	***	george talbot 6th earl of shrewsbury
+512	1.0	***	tiberius nero children children place of birth	***	rome
+513	1.0	***	matilda of flanders children parents spouse	***	william i of england
+514	1.0	***	ingrid bergman spouse spouse -1 spouse	***	roberto rossellini
+515	1.0	***	archduchess elisabeth franziska of austria children children gender	***	female
+516	1.0	***	archduchess elisabeth franziska of austria children parents religion	***	roman catholic church
+517	1.0	***	archduchess elisabeth franziska of austria children parents children	***	archduke friedrich duke of teschen/maria christina of austria
+518	1.0	***	john ii casimir of poland parents children gender	***	male
+519	1.0	***	john ii casimir of poland parents children parents	***	sigismund iii vasa
+520	1.0	***	john ii casimir of poland parents children gender	***	male
+521	1.0	***	natalia alexeievna of russia children -1 children parents	***	countess palatine caroline of zweibrucken
+522	1.0	***	tantamani parents parents children	***	piye
+523	1.0	***	louis duke of nemours parents -1 parents children	***	gaston comte deu
+524	1.0	***	katherine corri harris spouse children gender	***	female
+525	1.0	***	katherine corri harris spouse children nationality	***	united states
+526	1.0	***	maria of brabant children parents place of birth	***	poissy
+527	1.0	***	ibrahim adil shah ii children children religion	***	muslim
+528	1.0	***	archduke carl ludwig of austria children parents gender	***	male
+529	1.0	***	david kawananakoa parents -1 parents parents	***	abigail campbell
+530	0.0	***	khufu children -1 children children	***	djedefra/hetepheres ii
+531	1.0	***	jogaila children children location	***	krakow
+532	1.0	***	jogaila children children location	***	krakow
+533	1.0	***	jogaila children children spouse	***	elisabeth of austria
+534	1.0	***	wilhelmine of bayreuth parents children nationality	***	germany
+535	1.0	***	rose fitzgerald kennedy children -1 children religion	***	catholicism
+536	1.0	***	rose fitzgerald kennedy children -1 children location	***	barnstable
+537	1.0	***	ethelbert of wessex parents children place of death	***	wessex
+538	1.0	***	philippa of lancaster children parents children	***	edward of portugal/infante joao of portugal/infanta isabel duchess of burgundy
+539	1.0	***	catherine pavlovna of russia parents children gender	***	female
+540	1.0	***	charles lennox 2nd duke of richmond parents children children	***	lady sarah lennox/lord george lennox
+541	1.0	***	charles lennox 2nd duke of richmond children parents parents	***	charles lennox 1st duke of richmond
+542	1.0	***	richard 1st earl of cornwall parents children nationality	***	england
+543	1.0	***	alfonso iii of leon children parents gender	***	male
+544	1.0	***	sherman hoar parents -1 parents institution	***	harvard university
+545	1.0	***	joan crawford spouse -1 spouse spouse	***	phillip terry/franchot tone
+546	1.0	***	ada lovelace children parents spouse	***	ada lovelace
+547	1.0	***	philip ii of taranto parents parents children	***	philip i of taranto/louis of toulouse/blanche of anjou
+548	1.0	***	ferdinando iii de medici parents spouse children	***	gian gastone de medici grand duke of tuscany
+549	1.0	***	ferdinando iii de medici parents spouse religion	***	catholicism
+550	1.0	***	isabella of france parents spouse spouse	***	philip iv of france
+551	1.0	***	isabella of france parents spouse spouse	***	philip iv of france
+552	1.0	***	william ii german emperor parents parents place of birth	***	berlin
+553	1.0	***	gaston comte deu parents children parents	***	louis duke of nemours
+554	1.0	***	adelaide of aquitaine children spouse -1 place of death	***	melun
+555	1.0	***	catherine dolgorukov spouse parents nationality	***	germany/russia
+556	1.0	***	catherine dolgorukov spouse parents spouse	***	nicholas i of russia
+557	1.0	***	isabella of castile children children religion	***	catholicism
+558	1.0	***	isabella of castile children children nationality	***	spain
+559	1.0	***	jeanne devreux parents spouse nationality	***	france
+560	1.0	***	boleslaw ii of poland parents children gender	***	male
+561	1.0	***	duke peter of oldenburg children children spouse	***	anastasia of montenegro
+562	1.0	***	duke peter of oldenburg children children children	***	princess marina petrovna of russia/princess nadejda petrovna of russia
+563	1.0	***	duke peter of oldenburg children children place of birth	***	saint petersburg
+564	1.0	***	anna maria luisa de medici parents spouse religion	***	catholicism
+565	1.0	***	anna maria luisa de medici parents spouse religion	***	catholicism
+566	1.0	***	john f kennedy spouse children profession	***	socialite/businessperson/lawyer
+567	1.0	***	john f kennedy spouse children profession	***	socialite/businessperson/lawyer
+568	1.0	***	simon guggenheim parents children profession	***	businessperson
+569	1.0	***	frances stevenson spouse -1 spouse location	***	london
+570	1.0	***	yongzheng emperor children parents children	***	qianlong emperor
+571	1.0	***	yongzheng emperor children children gender	***	male
+572	1.0	***	yongzheng emperor children children gender	***	male
+573	1.0	***	john albert vasa children -1 children cause of death	***	smallpox
+574	1.0	***	blanche of burgundy spouse spouse parents	***	margaret of artois
+575	1.0	***	ferdinand duke of genoa parents spouse children	***	ferdinand duke of genoa
+576	1.0	***	ferdinand duke of genoa parents spouse spouse	***	maria theresa of austria and tuscany
+577	1.0	***	karin mansdotter spouse parents children	***	princess elizabeth of sweden
+578	1.0	***	william herbert 1st earl of pembroke children children gender	***	male
+579	1.0	***	sorghaghtani beki children parents gender	***	female
+580	0.0	***	sorghaghtani beki children -1 children children	***	mongke khan/ariq boke
+581	1.0	***	louis xiv of france children parents parents	***	anne of austria
+582	0.0	***	louis xiv of france children -1 children children	***	louise marie anne de bourbon
+583	1.0	***	marie antoinette children parents ethnicity	***	french people
+584	1.0	***	david lloyd george spouse spouse spouse	***	frances stevenson
+585	1.0	***	david lloyd george spouse spouse spouse	***	frances stevenson
+586	1.0	***	david lloyd george spouse -1 spouse nationality	***	wales
+587	1.0	***	sigismund i the old spouse children parents	***	bona sforza
+588	1.0	***	sigismund i the old parents children spouse	***	elisabeth of austria
+589	1.0	***	albert of saxe-coburg and gotha children parents gender	***	male
+590	0.0	***	albert of saxe-coburg and gotha children children children	***	grand duchess anastasia nikolaevna of russia/tsarevich alexei nikolaevich of russia
+591	1.0	***	albert of saxe-coburg and gotha parents -1 parents children	***	edward vii of the united kingdom/alice of the united kingdom/princess louise duchess of argyll/prince arthur duke of connaught and strathearn/princess beatrice of the united kingdom
+592	0.0	***	albert of saxe-coburg and gotha children children children	***	grand duchess anastasia nikolaevna of russia/tsarevich alexei nikolaevich of russia
+593	1.0	***	victoria kinoiki kekaulike children children gender	***	female
+594	0.0	***	yolande of aragon parents parents parents	***	alfonso iv of aragon
+595	1.0	***	lilli palmer spouse -1 spouse ethnicity	***	germans
+596	1.0	***	blanche of castile parents parents gender	***	male
+597	1.0	***	eva macmurrough parents -1 parents children	***	isabel de clare 4th countess of pembroke
+598	1.0	***	eva macmurrough parents -1 parents spouse	***	eva macmurrough
+599	1.0	***	elena of greece and denmark children -1 children place of birth	***	athens
+600	1.0	***	john i albert of poland spouse children gender	***	male
+601	1.0	***	lady sarah lennox parents children nationality	***	united kingdom
+602	1.0	***	yves montand spouse -1 spouse -1 cause of death	***	myocardial infarction
+603	1.0	***	yves montand spouse spouse spouse	***	simone signoret
+604	1.0	***	maria luisa of savoy spouse children spouse	***	joseph i of portugal
+605	1.0	***	maria luisa of savoy spouse children children	***	benedita dowager princess of brazil
+606	1.0	***	maria luisa of savoy spouse children nationality	***	portugal/spain
+607	1.0	***	princess helena of the united kingdom children parents children	***	prince christian victor of schleswig-holstein
+608	1.0	***	princess helena of the united kingdom children parents children	***	prince christian victor of schleswig-holstein
+609	1.0	***	luisa of medina-sidonia children parents children	***	teodosio prince of brazil
+610	1.0	***	george herbert 11th earl of pembroke parents children profession	***	politician
+611	1.0	***	isabel de clare 4th countess of pembroke children -1 children parents	***	richard de clare 2nd earl of pembroke/eva macmurrough
+612	1.0	***	isabel de clare 4th countess of pembroke children -1 children parents	***	richard de clare 2nd earl of pembroke/eva macmurrough
+613	1.0	***	katherine mortimer countess of warwick children -1 children place of birth	***	ludlow castle
+614	0.0	***	maria louisa of spain parents children children	***	francisco de paula duke of cadiz
+615	1.0	***	aelia eudoxia spouse -1 spouse spouse	***	arcadius
+616	1.0	***	mary boleyn parents -1 parents nationality	***	kingdom of england
+617	1.0	***	robert stewart 1st duke of albany children parents children	***	john stewart 2nd earl of buchan
+618	1.0	***	ivy cavendish bentinck duchess of portland spouse children gender	***	female
+619	1.0	***	maximilian joseph duke in bavaria children parents children	***	elisabeth of bavaria
+620	1.0	***	francis ii holy roman emperor spouse children gender	***	male
+621	1.0	***	ferdinand iii of castile parents children nationality	***	spain
+622	1.0	***	peter i of brazil children -1 children gender	***	male
+623	0.0	***	leonora of england parents parents nationality	***	kingdom of england
+624	1.0	***	princess louise victoire dorleans alencon children parents children	***	prince joseph clemens of bavaria
+625	1.0	***	sophia alekseyevna parents children profession	***	playwright
+626	1.0	***	henri regnault children -1 children parents	***	henri victor regnault
+627	1.0	***	guillaume iv grand duke of luxembourg parents spouse gender	***	female
+628	1.0	***	alva belmont spouse parents parents	***	cornelius vanderbilt
+629	1.0	***	catherine of aragon parents parents spouse	***	blanche i of navarre
+630	1.0	***	catherine of aragon parents parents spouse	***	blanche i of navarre
+631	1.0	***	marguerite of france 1158 spouse children place of birth	***	hungary
+632	1.0	***	james smithson children -1 children parents	***	hugh percy 1st duke of northumberland
+633	1.0	***	augustus children -1 children spouse	***	mark antony
+634	1.0	***	ronald reagan parents children spouse	***	jane wyman
+635	1.0	***	philip v of spain children children parents	***	mariana victoria of spain
+636	1.0	***	philip v of spain children parents gender	***	male
+637	1.0	***	kekauluohi likelike children parents spouse	***	archibald cleghorn
+638	1.0	***	kekauluohi likelike children parents spouse	***	archibald cleghorn
+639	1.0	***	thomas jefferson children parents profession	***	architect/philosopher/inventor
+640	1.0	***	zeb-un-nissa parents children gender	***	male
+641	1.0	***	abaqa khan children children religion	***	islam
+642	1.0	***	prince george duke of kent parents parents parents	***	claudine rhedey von kis rhede
+643	1.0	***	prince george duke of kent parents children nationality	***	united kingdom
+644	1.0	***	lilian baels spouse children cause of death	***	cardiovascular disease
+645	1.0	***	lilian baels spouse spouse spouse	***	leopold iii of belgium
+646	1.0	***	kunigunde of austria children parents gender	***	female
+647	1.0	***	kunigunde of austria spouse spouse children	***	susanna of bavaria
+648	1.0	***	franz joseph i of austria spouse parents children	***	elisabeth of bavaria
+649	1.0	***	adolphus busch iii children -1 children gender	***	male
+650	0.0	***	baidar parents parents	***	genghis khan
+651	1.0	***	alfonso iv deste children -1 children place of birth	***	modena
+652	1.0	***	maria miloslavskaya children parents children	***	natalya alexeevna
+653	1.0	***	prince william of hesse children children children	***	prince albert victor duke of clarence
+654	1.0	***	piye parents children parents	***	kashta
+655	1.0	***	maria alexandrovna of hesse children parents children	***	grand duke nicholas alexandrovich of russia
+656	1.0	***	enno louis prince of ostfriesland parents parents place of birth	***	aurich
+657	1.0	***	enno louis prince of ostfriesland parents children parents	***	ulrich ii count of ostfriesland
+658	1.0	***	freddie lennon spouse children cause of death	***	assassination
+659	1.0	***	pelayo of asturias children children -1 children	***	favila of asturias
+660	1.0	***	pelayo of asturias children parents children	***	favila of asturias
+661	1.0	***	edward r murrow spouse spouse ethnicity	***	irish people/germans/english people
+662	1.0	***	edward r murrow spouse -1 spouse cause of death	***	lung cancer/cancer
+663	1.0	***	hermann einstein spouse children gender	***	female
+664	1.0	***	miguel ii duke of braganza parents children gender	***	female
+665	1.0	***	abdulmecid children parents children	***	murad v
+666	1.0	***	otto i duke of saxony parents children gender	***	female
+667	1.0	***	otto i duke of saxony parents children gender	***	female
+668	1.0	***	mary josephine hannon fitzgerald spouse children religion	***	catholicism
+669	1.0	***	john of gaunt 1st duke of lancaster children children parents	***	philippa of lancaster/john i of portugal
+670	1.0	***	maria of habsburg archduchess of austria parents children parents	***	anna of bohemia and hungary
+671	1.0	***	princess louise duchess of argyll children -1 children place of birth	***	buckingham palace
+672	1.0	***	princess louise duchess of argyll children -1 children children	***	victoria eugenia of battenberg/alexandra fyodorovna of hesse/prince maurice of battenberg
+673	1.0	***	princess louise duchess of argyll children -1 children profession	***	grand duchess
+674	1.0	***	frederick augustus i of saxony parents children gender	***	male
+675	1.0	***	francis i holy roman emperor spouse spouse profession	***	emperor
+676	1.0	***	afonso vi of portugal parents children parents	***	john iv of portugal
+677	1.0	***	otto iii holy roman emperor parents children gender	***	male
+678	1.0	***	louise of mecklenburg-strelitz children children children	***	grand duke dmitri konstantinovich of russia
+679	1.0	***	shah jahan children parents children	***	dara shikoh
+680	1.0	***	shah jahan children parents children	***	dara shikoh
+681	1.0	***	shah jahan children parents location	***	agra
+682	1.0	***	gilbert gallegos spouse -1 spouse nationality	***	united states
+683	1.0	***	margaret of france duchess of berry parents children place of death	***	paris
+684	1.0	***	margaret of france duchess of berry parents children children	***	claude of valois/francois duke of anjou/charles ix of france
+685	1.0	***	margaret of france duchess of berry parents children gender	***	male
+686	1.0	***	elisabeth of austria children parents children	***	john i albert of poland
+687	1.0	***	anna e roosevelt parents parents place of death	***	new york
+688	1.0	***	elizabeth of rhuddlan parents parents parents	***	alfonso ix of leon
+689	1.0	***	ernest elector of saxony parents -1 parents place of birth	***	meissen
+690	1.0	***	ernest elector of saxony parents -1 spouse parents	***	dorothea of brandenburg
+691	1.0	***	louis dauphin de france children parents place of death	***	chateau de fontainebleau
+692	1.0	***	louis dauphin de france parents -1 parents children	***	louis xvi of france/louis xviii of france
+693	1.0	***	abraham spouse spouse religion	***	judaism
+694	1.0	***	mary of teck children parents parents	***	princess mary adelaide of cambridge/francis duke of teck
+695	1.0	***	maria pavlovna of russia children children parents	***	william i german emperor
+696	1.0	***	maria pavlovna of russia children children children	***	victoria of baden
